@@ -4,4 +4,3 @@ cat
 pigeon
 peacock
 swan
-duck
